@@ -24,25 +24,25 @@
     }
   },
   {
-    "name": "Synth 1",
+    "name": "Synth 1 please please work",
     "type": "Synth",
     "settings": {
       "detune": "0",
       "portamento": "0.5",
       "volume": "0",
       "oscillator": {
-        "type": "sine",
+        "type": "amsawtooth",
         "phase": 0,
         "partialCount": "0",
         "partials": []
       },
       "envelope": {
-        "attack": "0.1",
-        "attackCurve": "linear",
+        "attack": "2",
+        "attackCurve": "bounce",
         "decay": "0.1",
-        "decayCurve": "linear",
+        "decayCurve": "exponential",
         "sustain": "0.5",
-        "release": "1.5",
+        "release": "3",
         "releaseCurve": "linear"
       }
     }
