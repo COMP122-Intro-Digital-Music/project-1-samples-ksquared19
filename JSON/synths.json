@@ -22,29 +22,5 @@
         "releaseCurve": "ripple"
       }
     }
-  },
-  {
-    "name": "Synth 1",
-    "type": "Synth",
-    "settings": {
-      "detune": "-20",
-      "portamento": "-3",
-      "volume": "0",
-      "oscillator": {
-        "type": "sawtooth",
-        "phase": 0,
-        "partialCount": "0",
-        "partials": []
-      },
-      "envelope": {
-        "attack": "2",
-        "attackCurve": "linear",
-        "decay": "2",
-        "decayCurve": "exponential",
-        "sustain": "0.5",
-        "release": "1.5",
-        "releaseCurve": "linear"
-      }
-    }
   }
 ]
